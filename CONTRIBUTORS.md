@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Zen](https://github.com/mzaini30)
+- Place: Samarinda, Indonesia
+- Bio: Book layouter at Caraka Publishing
+- Github: [Zen](https://github.com/mzaini30)
